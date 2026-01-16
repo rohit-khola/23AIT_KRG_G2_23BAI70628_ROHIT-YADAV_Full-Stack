@@ -1,0 +1,26 @@
+*{
+    background-color: wheat;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
+h2{
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+p{
+    font-size: large;
+    font-weight: bold;
+}
+#high{
+    color: red;
+}
+#low{
+    color:green
+}
